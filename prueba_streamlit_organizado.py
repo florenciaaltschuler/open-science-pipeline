@@ -3,8 +3,6 @@ import shutil
 import streamlit as st
 from pathlib import Path
 import zipfile
-from tkinter import filedialog
-from tkinter import Tk
 
 # Helper function to create directory structure
 def create_directory_structure(base_path):
@@ -73,11 +71,15 @@ def create_zip_folder(base_path, project_name):
     zip_filename = f"{project_name}.zip"
     zip_filepath = base_path / zip_filename
 
-    # Create a Zip file with the entire project folder
+    # Create a Zip file with the entire project folder (including empty directories)
     with zipfile.ZipFile(zip_filepath, 'w', zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(base_path):
             for file in files:
                 zipf.write(os.path.join(root, file), os.path.relpath(os.path.join(root, file), base_path))
+            # Also add directories if empty
+            for dir in dirs:
+                dir_path = os.path.join(root, dir)
+                zipf.write(dir_path, os.path.relpath(dir_path, base_path))
     
     st.write(f"Created zip file: {zip_filepath}")
     return zip_filepath
@@ -93,7 +95,7 @@ def streamlit_app():
         # Define base project folder
         base_path = Path(f"./{project_name}")
         
-        # Create the folder structure
+        # Create the folder structure (even if no files are uploaded)
         create_directory_structure(base_path)
         
         # Upload files for each subfolder, showing uploaders inside each subfolder's expander
