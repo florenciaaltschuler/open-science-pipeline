@@ -1,0 +1,2 @@
+from prueba_html import create_project_structure
+create_project_structure("my_study_adjuntando_vacio_3")
