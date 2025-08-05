@@ -7,6 +7,7 @@ from rich.console import Console
 from fpdf import FPDF, XPos, YPos
 import json
 
+
 class OpenScienceValidator:
     def __init__(self, project_path):
         self.project_path = Path(project_path)
@@ -16,7 +17,6 @@ class OpenScienceValidator:
             "warnings": [],
             "recommendations": []
         }
-        
         # Expected structure
         self.required_files = {
             "README.md": "Project overview with badges and quick-start guide",
@@ -25,18 +25,23 @@ class OpenScienceValidator:
         }
         
         self.required_dirs = {
-            "data": "Data storage (never edit in place)",
-            "data/raw": "Immutable copies from source",
-            "data/interim": "Cleaned/anonymised data", 
-            "data/preprocessed": "Analysis-ready tables and arrays",
-            "code": "All executable code",
-            "code/src": "Importable Python packages",
-            "code/notebooks": "Exploratory Jupyter notebooks",
-            "code/env": "Computational environment specs",
-            "docs": "Human-oriented documentation",
-            "docs/participant_info": "Demographics and participant data",
-            "docs/preregistration": "OSF preregistration PDFs",
-            "code/results": "Frozen outputs that underpin publications"
+            "01_docs": "Human-readable documentation related to the project. Protocols, consent, ethics, DMP",
+            "01_docs/01_participant_info": "Demographics and participant data",
+            "01_docs/02_ethics": "Ethics(IRB) approval documents",
+            "01_docs/03_dmp": "Data Management Plan",
+            "01_docs/04_prereg": "Pre-registration documents",
+            "02_data": "Data storage (never edit in place)",
+            "02_data/01_raw": "Original raw data files (deidentified/anonymised)",
+            "02_data/02_preproc": "Analysis-ready data (processed, cleaned, transformed)",
+            "03_scripts": "Code used across various stages of the research process",
+            "03_scripts/01_exp": "Experimental scripts for data collection",
+            "03_scripts/02_prep": "Data preparation scripts (cleaning, preprocessing, transformation)",
+            "03_scripts/03_analysis": "Statistical or computational analysis scripts",
+            "04_results": "Outputs generated from analysis (stats tables, final figs).",
+            "04_results/01_output": "Raw output files from analysis scripts, such as logs or model outputs.",
+            "04_results/02_figures": "Visualizations such as plots, charts, or brain maps",
+            "04_results/03_tables": "Tabular data results",
+            "05_metadata": "Metadata files describing the data and code (dataset descriptors, codebooks, or provenance logs)",
         }
 
     def validate_structure(self):
@@ -315,6 +320,7 @@ class OpenScienceValidator:
         # Save PDF
         pdf.output(output_path)
         print(f"[green]📄 PDF report saved to: {output_path}[/green]")
+
 
 def validate_project(project_path):
     """Main function to validate a project"""
