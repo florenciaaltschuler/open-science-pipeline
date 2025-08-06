@@ -1,0 +1,23 @@
+Coding scheme	Explanation
+Charity loss I can inflict	Code refers to a participant who wants charity to lose money. 
+Charity loss others can inflict	Participant reflects how other players can inflict monetary loss for charity.
+Amount others will offer	Amount of money other players were willing to stake was reflected by participant in his own offers.
+Number of correct responses by others in the AFTER version	Amount of correct responses from players in the AFTER version of the task was considered by the participant.
+Preffered version	Code refers to a participants preference for (such as entertainment or ease) when selecting a verision.
+Influence over final sum	Participant stated that their goal is to make money or maximize earnings. 
+Influence over final loss for charity	Participant did not want charity to lose money. 
+Want to win	Motivation to win a version by the participant.
+Want to outperform the others	Motivation to outperform other players.
+Calculation	Participants provided some calculation on their winnings or selecting the best version.
+Random	Participants decided randomly or relied on a random chance. 
+Honest play	Code reflects statement that participant wanted to play honestly. 
+Risk assessment	Participants considered risk asssociated with their choices.
+Refusal to pay	Code reflects that a participants did not want to pay any fee.
+Wanted to try AFTER version	This code refers to a participant expressing that they wanted to try the AFTER version.
+Strategy	Participant shared a strategy they had on outbiding the others or how to approach the task in a strategic way. 
+Increasing loss of others	This code reflects participants wish to inflict higher costs on other players. 
+Experience with the task	Code refers to a participants experience with the task and their reflection on how different rounds affected their decisions or strategy.
+Intuition	Participants provided that they decided based on intuition or a feeling.
+No information	There was no meaningful answer that could be coded.
+does not want AFTER	This label refers to a players statement, that they do not want to play the AFTER version of the task.
+charity loss considered but not reflected	Participants reflected that their behaviors cause charity money but they did not consider charity in their choices.

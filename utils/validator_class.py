@@ -243,7 +243,6 @@ class OpenScienceValidator:
         for preproc_dir in preproc_dirs:
             self._check_data_subdirectory(preproc_dir, "preprocessed")
 
-
     def _check_data_subdirectory(self, data_dir, data_type):
         """Check subdirectories within raw/preproc folders"""
 
