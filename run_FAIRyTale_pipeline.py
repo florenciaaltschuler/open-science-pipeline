@@ -112,13 +112,22 @@ def validate_project_interface():
     """Interface for validating an existing project"""
     st.header("🔍 Validate Existing Project")
     
+    # Check if we're showing results
+    if 'show_validation_results' in st.session_state and st.session_state.show_validation_results:
+        display_validation_results()
+    else:
+        show_validation_input()
+
+
+def show_validation_input():
+    """Show the input interface for validation"""
     # Option 1: Text input for path
     project_path = st.text_input(
         "Enter the path to your project directory",
         placeholder="/path/to/your/project"
     )
     
-    # Option 2: Folder picker (if you want to be fancy)
+    # Option 2: Folder picker
     st.markdown("**OR**")
     
     # Upload a zip file to validate
@@ -127,33 +136,54 @@ def validate_project_interface():
     if st.button("🚀 Run Validation", type="primary"):
         if project_path and Path(project_path).exists():
             run_validation(project_path)
+            st.session_state.show_validation_results = True
+            st.session_state.is_temp_project = False
+            st.rerun()
         elif uploaded_zip:
-            # Extract and validate the zip
-            import tempfile
+            # Extract to a persistent location instead of temp
             import zipfile
+            import os
             
-            with tempfile.TemporaryDirectory() as temp_dir:
-                # Extract zip
-                with zipfile.ZipFile(uploaded_zip, 'r') as zip_ref:
-                    zip_ref.extractall(temp_dir)
-                
-                # Find the project root (first directory in temp_dir)
-                project_dirs = [d for d in Path(temp_dir).iterdir() if d.is_dir()]
-                if project_dirs:
-                    run_validation(str(project_dirs[0]))
-                else:
-                    st.error("Could not find project directory in uploaded ZIP")
+            # Create a persistent temp directory
+            temp_base = Path("temp_validations")
+            temp_base.mkdir(exist_ok=True)
+            
+            # Create unique folder for this validation
+            import time
+            temp_dir = temp_base / f"validation_{int(time.time())}"
+            temp_dir.mkdir(exist_ok=True)
+            
+            # Extract zip
+            with zipfile.ZipFile(uploaded_zip, 'r') as zip_ref:
+                zip_ref.extractall(temp_dir)
+            
+            # Find the project root
+            project_dirs = [d for d in temp_dir.iterdir() if d.is_dir()]
+            if project_dirs:
+                project_path = str(project_dirs[0])
+                run_validation(project_path)
+                st.session_state.show_validation_results = True
+                st.session_state.is_temp_project = True
+                st.session_state.temp_project_path = project_path
+                st.rerun()
+            else:
+                st.error("Could not find project directory in uploaded ZIP")
         else:
             st.error("Please provide a valid project path or upload a ZIP file")
 
 
-def run_validation(project_path):
-    """Run the validation and display results in Streamlit"""
-    validator = OpenScienceValidator(project_path)
+def display_validation_results():
+    """Display the validation results"""
+    if 'validation_results' not in st.session_state:
+        st.error("No validation results found")
+        return
     
-    # Show progress
-    with st.spinner("🔍 Validating project structure..."):
-        results = validator.validate_structure()
+    results = st.session_state.validation_results
+    
+    # Add a back button
+    if st.button("← Back to validation input"):
+        st.session_state.show_validation_results = False
+        st.rerun()
     
     # Display results in Streamlit UI
     col1, col2, col3 = st.columns(3)
@@ -187,18 +217,66 @@ def run_validation(project_path):
         st.write(f"- {rec}")
     
     # Generate PDF report
-    if st.button("📄 Generate PDF Report"):
-        report_path = Path(project_path) / "validation_report.pdf"
-        validator.generate_pdf_report(report_path)
+    st.markdown("---")
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        if st.button("📄 Generate PDF Report", type="primary"):
+            generate_pdf_report()
+    
+    with col2:
+        if 'pdf_generated' in st.session_state and st.session_state.pdf_generated:
+            with open(st.session_state.pdf_path, "rb") as pdf_file:
+                st.download_button(
+                    label="📥 Download PDF Report",
+                    data=pdf_file.read(),
+                    file_name="validation_report.pdf",
+                    mime="application/pdf",
+                    type="secondary"
+                )
+
+
+def run_validation(project_path):
+    """Run the validation and store results in session state"""
+    validator = OpenScienceValidator(project_path)
+    
+    # Show progress
+    with st.spinner("🔍 Validating project structure..."):
+        results = validator.validate_structure()
+    
+    # Store everything in session state
+    st.session_state.validation_results = results
+    st.session_state.current_validator = validator
+    st.session_state.current_project_path = project_path
+    st.session_state.pdf_generated = False
+
+
+def generate_pdf_report():
+    """Generate the PDF report"""
+    if 'current_validator' in st.session_state and 'current_project_path' in st.session_state:
+        # For temp projects, save PDF to a different location
+        if st.session_state.get('is_temp_project', False):
+            # Save to current directory instead
+            report_path = Path("validation_report.pdf")
+        else:
+            report_path = Path(st.session_state.current_project_path) / "validation_report.pdf"
         
-        # Offer download
-        with open(report_path, "rb") as pdf_file:
-            st.download_button(
-                label="Download Validation Report",
-                data=pdf_file.read(),
-                file_name="validation_report.pdf",
-                mime="application/pdf"
-            )
+        with st.spinner("Generating PDF report..."):
+            st.session_state.current_validator.generate_pdf_report(report_path)
+            st.session_state.pdf_path = report_path
+            st.session_state.pdf_generated = True
+            st.success("✅ PDF Report generated successfully!")
+            
+            # Clean up temp files after generating PDF
+            if st.session_state.get('is_temp_project', False):
+                # Optional: clean up the temp directory
+                import shutil
+                try:
+                    shutil.rmtree(Path(st.session_state.temp_project_path).parent)
+                except:
+                    pass
+            
+            st.rerun()
 
 
 # Run the app
