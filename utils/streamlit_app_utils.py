@@ -73,15 +73,18 @@ def create_zip_folder(base_path, project_name):
     zip_filename = f"{project_name}.zip"
     zip_filepath = base_path / zip_filename
 
-    # Create a Zip file with the entire project folder (including empty directories)
+    # Create a Zip file with the entire project folder (excluding the zip file itself)
     with zipfile.ZipFile(zip_filepath, 'w', zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(base_path):
             for file in files:
-                zipf.write(os.path.join(root, file), os.path.relpath(os.path.join(root, file), base_path))
+                # Exclude the zip file from being added to the zip
+                if file != zip_filename:  # Ensure the zip file isn't added
+                    zipf.write(os.path.join(root, file), os.path.relpath(os.path.join(root, file), base_path))
             # Also add directories if empty
             for dir in dirs:
                 dir_path = os.path.join(root, dir)
-                zipf.write(dir_path, os.path.relpath(dir_path, base_path))
-    
+                if dir != zip_filename:  # Ensure the zip file's directory isn't included
+                    zipf.write(dir_path, os.path.relpath(dir_path, base_path))
+
     st.write(f"Created zip file: {zip_filepath}")
     return zip_filepath
