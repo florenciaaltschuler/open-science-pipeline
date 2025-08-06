@@ -3,9 +3,14 @@ from pathlib import Path
 from utils.streamlit_app_utils import create_directory_structure, upload_files, save_files, create_zip_folder
 from utils.validator_class import OpenScienceValidator
 
-
 def main():
-    st.set_page_config(page_title="FAIR Science Project Manager", page_icon="🔬")
+    # Set the page config to set a custom logo as the favicon
+    logo_path = Path("image/logo.png")  # Ruta del logo
+    st.set_page_config(page_title="FAIR Science Project Manager", page_icon=str(logo_path))  # Usamos el logo como ícono de la página
+
+    # Mostrar el logo en la parte superior de la página
+    st.image(str(logo_path), width=200)  # Puedes ajustar el tamaño del logo
+
     st.title("🔬 FAIR Science Project Manager")
     st.markdown("---")
     
