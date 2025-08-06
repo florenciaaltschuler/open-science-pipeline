@@ -1,0 +1,406 @@
+id	others_charity_interest	you_charity_interest	aware_cheating	aware_preventing_cheating	aware_preventing_loss
+da1cd9f2-f5b8-4e59-a111-464c4af524df	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+5aae63b2-df86-4711-96e1-28d8b4774d0d	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+ce9fdb7a-02a7-40be-add0-bfa3e83f0c35	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+bf3851c6-714f-456a-b8bd-d79e53dcec2d	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e2cd1e1e-5341-4fbb-a34c-5f05c94b7f1e	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+592ca275-599c-4c37-afa4-eb087ae7e513	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+d68aa525-ca85-4281-8ecc-bce7a76525e7	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5bb12bec-c05b-4083-8d38-4784fdeb981b	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+de672a8f-d10a-43ea-9f26-a87160fe8e11	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+8d26c891-2273-4db6-a123-ebb06e91b864	Vùbec ne	Vùbec ne	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+95c976b9-f5b3-4467-a80e-acf77ac4e9bc	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+af0811ac-c3a2-499e-9747-0909fabd27d3	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ecec852a-c88f-4e08-8099-6155407ae3cf	Vùbec ne	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+68175172-e643-4081-8918-396922cbf82b	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+830690d6-1d3b-415f-b407-7f20f8ac02b7	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e6bf85ac-33b0-4795-be51-f0543728d234	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+57a7f3e8-5c2e-45ac-a179-d34bce9b1cc5	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+e02029e5-a438-4890-9af5-464b42cce971	Do urèité míry	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+49a108b4-7f02-4394-9e4d-fb98d2817f0a	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+f380c4e1-4001-4fd7-aa7b-8e38dcd61b84	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7fab4fd6-e257-4af1-a753-b434d7bc13b2	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+49be27bc-9f90-4bb8-a487-e590faf658a4	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b43c7502-7446-4e23-88fb-61a21fd37cee	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6a900c9f-f05e-4274-add0-efb54795f6a8	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+2533feca-b1b1-4868-82a6-1ed3e83c10e1	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+56d4f951-5784-4a09-9279-2faf91bd0471	Jen trochu	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+83047a1b-ff96-477a-b426-3c6293d45167	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1da122c6-3eee-4928-8429-695c69980611	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3ecf331c-b5dd-405c-86e3-002ec955e370	Jen trochu	Do urèité míry	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+558f1433-0791-4f2a-ae39-b8ed7b220be4	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ad14534b-9204-43b6-b454-948f2095f858	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a4ded15a-bf9f-4b4c-ad06-f919264ec546	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e81ba0f8-e68a-44a4-b053-9b54cd8e0ee2	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+b77ef74b-fdb9-4d4b-8536-af850b49e8bd	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e70e9573-58bb-4ea5-a13f-edcc1ec4b84c	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+1e131d19-7703-4c1a-a50b-54f91055a198	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ca1440e7-0d2d-48eb-b270-5e0c84eefc8c	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5cd06121-b886-4998-b994-f9858e91ab25	Velmi	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+bdd762ab-6e69-4d9e-801b-5aff4ffe7767	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+df850586-902e-4c0d-93ee-161bb3de9d9c	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+468580d7-233c-491b-ac68-da623ba767b7	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+89170ab0-f9cc-469f-860c-a96506565ae7	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+6efa0fba-a600-46b5-aacd-0129dce45149	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+51ecaff0-a4ad-48a9-a78f-e3d164eb1f78	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c5647960-3bfd-4a9a-91a6-3adf918174d8	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+d05ea89a-2169-4607-b690-a16c9207fedd	Spíše hodnì	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+cd04c1d8-28e6-4699-b0b5-0da984c4bd93	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e5943ddd-a69d-4fe8-8c3c-8591fc4f423d	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+37436751-10d5-40ff-9ffe-75633fb404fe	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+04b7e20c-d390-4631-9ffb-decdce1c9769	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+fba9d3cf-c16c-4a04-82ae-c5e825e9dfb6	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d738ba38-120f-4106-b451-239f7f5b3c21	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6363a5b6-072e-4460-91ca-6f8aebd1f7a0	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3f5e3315-b27b-40eb-814b-ee157ac4dac2	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+37407775-058f-4d25-baac-052cf1462b5a	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+99ef30ab-8999-48fb-af8e-68f7b3511396	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7d8e44db-2d49-4b80-8fe5-1902fcf8b4b8	Jen trochu	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+3e642eda-2ed3-4f62-a735-3d6e63070c84	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+3bf95e66-b844-4a07-9b9b-7bd3fd374790	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a0091ca6-f480-4069-aa9f-d66b68cf3d72	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5f5a91e8-1248-4fe6-9911-1b36f2abac03	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+b772a82d-95c6-4bc0-9a30-40741c45115c	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+746fb2f9-7c85-429d-ae5d-db4aab8ec520	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+e53b4c62-453d-4911-9868-ee560edda0b0	Do urèité míry	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+c8fc6c72-3ad3-4b89-8161-9d650682aa1f	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+90345430-f0aa-4a7c-998f-30a450724f85	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+452e4c30-68a6-4f2c-9274-20c74f2d5bbf	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+328885a1-42bc-4a22-8eee-a4b4c6a8dce8	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5f15f6b6-eb40-4f20-a918-12274a191d84	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+abfcf329-f616-4c25-96fb-69e5e2d0f48c	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+9acba6e6-6f02-45b7-b037-90f1e13662a8	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+58bf73de-6595-4fef-89ce-34d770b441ab	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+c66b69bb-5dca-4464-8f36-506c5ba7a7cc	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+23332da8-bc72-4f94-bb04-f7e8984587f5	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+1688fcb7-e9a9-4f1a-be51-0ecf6e5d0b5f	Spíše hodnì	Velmi	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1275c944-b232-4489-85fb-b0c8379bc9af	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+efc945d6-efd2-4678-af18-5b9c7b5de03f	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+017a3395-1ef4-4161-b27c-626031e21672	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+720ea58a-e033-4609-a88c-3d4a54acbb1e	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+d9733090-59a5-4901-a58d-9b45a8ffbdfa	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+9b862289-c3dd-4e56-8ed2-c48a85353162	Spíše hodnì	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+de8213e8-126d-43f4-84ba-5e1365c75f92	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+eeadc02f-5ae8-4574-9ca4-600e597f7305	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+fcae8279-e541-4202-8775-5766f259d2f9	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+e25ae80f-522f-4064-b6b4-db2928837997	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+33961394-e0c1-438d-9853-8e629e164643	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ba3f1f4e-82cb-4330-b306-dcd696a7c11c	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+765fb0b7-602f-4dc4-9835-5bb42063ef05	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+e6b58a3d-b076-4751-a129-eb838740960d	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+2162396e-43a1-4231-88e2-c59d6d269c96	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+46464364-c001-4ccb-9543-a4e809b0451f	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a1eb0d87-ac5b-4cb7-b46f-fafc2e4e44cb	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+28569618-0718-43b5-bfe5-c7aa8516bfe3	Jen trochu	Spíše hodnì	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b9336393-ad95-418d-b753-0a5bb35cf964	Spíše hodnì	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a5bdf693-8a7b-4250-ab58-12d4c28b9670	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+5be468f7-a961-4122-af7a-a27659e9029f	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ceda4815-c7ac-46b9-8de7-e02c96b70268	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+f682eb24-f2fc-42c1-b2b0-b98de23105a9	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+447ae28a-2490-4c0b-83f2-93fcc868fdf8	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+04a9c6af-c763-4fb2-9930-620c314ff12b	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+4a4e5311-b58e-47c0-8689-3593b6ff50b8	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+74e96c26-d771-4351-9d66-0f2c95988d16	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+9a491cec-1eca-4dc0-a60b-622851ffc78e	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+fbccbd55-8732-45c0-a082-6dfb91c3c3d8	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+463a4c76-a336-4e95-b5bf-4fe4763417bd	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d95c55e4-78bf-4e46-aca9-42022edaafde	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+4e0cbe98-d9fd-4925-823c-736ea8727b2b	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+6c6ac2ab-007b-4b38-9397-68ff2f4033e5	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+01086881-1cf7-418a-a701-d22bd5dee7fd	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+13b3d984-3490-4c7c-9a3d-d591a073d185	Do urèité míry	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+617cdf44-b19b-40a1-a1af-c5e53b43725b	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+64579add-a6a5-409c-b0ec-64b72f59e8bd	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+afa12c4e-eee6-4297-ad5a-404c7523c9a6	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+b350049a-33c4-499a-b851-f39725b0605a	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5c04e800-cf33-4f88-839d-4a4cfb6f79c2	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6c3e6663-04bd-48b8-9e0a-e9251689e68d	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+15bba6c1-2e27-48ee-a869-e5530259787b	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+ac0c96a1-e48a-49df-aa1e-326143ce4a5f	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+f35459e1-5bcb-4824-9889-41ba0913bae7	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0f6f6cd1-43c8-4ccb-8821-b8820999bb86	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+2443f41d-5ce2-4b7e-8260-d618ab37dc65	Jen trochu	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+19e25ebc-6ed3-4421-bdd7-ddd98b598459	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+2e506234-ecb0-4512-9bb2-133af73fd0b5	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+a97a3831-83cc-4bbc-87e8-7a63b06fcc79	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+60746344-a02b-4db2-a1a4-71354bbdf2e9	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+94ce4077-0761-4e77-a775-2645775acbfb	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3fb1afc1-7d1f-4817-ba90-7457c3b40a44	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+58506d34-c738-4473-b885-8a84b1acc125	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+70e6d3a6-035f-4077-b0fe-81ae3a249b14	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+db7d3753-72f6-45d6-a6ec-beaf73967b04	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+323a479c-ccad-4abd-87e3-fb448f113c4d	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+873c0ef1-6a60-4b2c-8906-a19b27fa714e	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+4751456b-4725-4ee8-9d92-9e0f538d3e35	Do urèité míry	Jen trochu	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2c1aac25-f8dc-41f7-ac62-2e7b9d51c141	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+bc322b98-a056-4e24-ab95-3a3580fcbb93	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+f1c2a98e-0738-47f9-b670-72d0d52d9c04	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e70e260d-89e2-4fb0-bcfe-07f299c9c99b	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+90553ea3-e275-43a3-afe9-18fefe83b797	Vùbec ne	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+14439041-c353-42ec-8b0d-696e3827d9d0	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5d2f9b33-5d37-48b4-a874-160a97cab654	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+601dc6f5-f7d9-46db-9509-5eb01343b644	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a8337fc0-609d-48a2-8c7d-7eac635adb59	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+fddbd9eb-8af4-408f-92c4-adb2de449f3b	Spíše hodnì	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+b588d51f-a123-4a3d-b81a-a7d93e0f9f52	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+cc79acdd-50ad-4278-bd3c-77b8231e5f7b	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+192c5fa4-3561-4821-ad29-63be540f1e49	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+3463b0f0-eca0-47bf-a161-5790ea46061e	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+809417b4-1e17-4cfc-afb2-7b7a2aaa154c	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7054efc1-390b-43a2-8b82-9484189edc0d	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+7efc290b-6fd2-465c-b617-5b050e5f7c7b	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c9224dc5-21e9-4efc-a04f-c42b479aeffe	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4abca261-ed22-4157-a349-eb8e84d439b2	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a028ace0-928f-43a9-8ef4-bc20b1dadfe8	Do urèité míry	Do urèité míry	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ab8b4070-66ac-4c78-b8a6-f4440f0e2f10	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4617e72c-f0aa-4927-a89d-dd287e9a5511	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+fa69beea-64f5-4cba-9942-3e0c02ac50f8	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+db2a60dd-24cc-4bcf-b154-01f70ea4797b	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+80a51c7a-3a44-4c5e-82f6-215db491d368	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+f3084089-a209-4ece-9e98-5dcb89f5a298	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6206f933-ce2c-4dd6-baeb-75e865bde85a	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+01838e27-d7b3-4477-8843-974d0bd70592	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+35aea501-a699-4959-8bfe-ab31013608b3	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+721a9703-3a0b-4f8a-8021-75266c7aa6bb	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e9a5ab82-89b1-44fc-81b6-08f02e7afbea	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+9c9e8505-5b90-4e64-be5b-83869d878363	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d719d4f3-8a76-4399-90e9-de504431c07c	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+cced9ed2-9106-4c43-94af-4d8956ca98b8	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+8607300f-eadc-462a-8335-8f5e5f86a07d	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+d9a089d8-6cf1-48ee-b272-0468ea1eb1e8	Jen trochu	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+57b2df29-4c1b-4cf2-8694-a3ee55f4734b	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+90427588-a547-48b7-9517-a9bb8dda8c63	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+7c3723e4-4c13-46f0-9b96-0ca791a3d15a	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+11e6e146-b1f2-4dbe-a3ef-dd1b1cf384ca	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+12cb492d-cc65-489b-b4e0-9613bff317ff	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+9c24a135-eb00-48ae-ba21-5f8f84566df0	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+124f6598-ef74-482b-8323-c1cc739ccbfb	Spíše hodnì	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+480621b9-24c7-438f-825f-fc3bd72d0c7c	Spíše hodnì	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+fe393ca2-47e0-448a-a4bd-43822ec9897b	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+18766930-35ab-48a5-9b4c-fbb903551ae0	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+aca255af-50af-4292-ab8e-e52623fde60c	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2a5f9eec-b49d-4ad3-a6ed-880f7c4a51bb	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+461e36ef-2744-41b4-a429-214b4c844755	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+95343453-e8b0-43c1-898a-d1f6a74ffae3	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+62402dad-d3b6-4e7a-9b09-7d81908765e7	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+30687918-83c4-4263-a828-44d9cdde7a8b	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+99ca786d-9dfa-4d91-9f0e-62d9930d6860	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+2b9562a7-c846-4de3-81d6-d24ebde66b84	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d765d2cf-ef45-41e6-ad7f-8814b46535f5	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1828ce77-b575-4bca-aa3b-517fb06f8172	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4c1e0ae3-bbf6-482f-9a03-d17bbf44accd	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+121c5293-f03e-45fc-a08d-a068f94329fb	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b592a427-b9ab-4b45-aacb-a641480c0890	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+bb82be52-279f-4076-9df5-01082b760687	Vùbec ne	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+88ff3945-16cb-42bb-b174-f9ea0cbfb011	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+aa2e4a71-4ae2-4c3e-bafe-a6b27e96bf9b	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+c1bfe895-fb86-4f48-8740-a188999a1fd2	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+75a0beec-f9d2-443c-80b0-af4da8568b90	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+98e3edd2-4de1-4bf8-a64a-aee0c82c636b	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+dec03a33-8360-4894-9fb0-abc3962b7ca7	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+66684283-bd7d-49e5-8c8f-89112451b7dc	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a709d825-98db-4dad-89d9-530b2fda8179	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+de7ff20e-5a37-4106-b7f6-2546126a6ddc	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+fc8ffdfe-ba6d-4e59-962a-171f3441c35c	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+948f1404-83f9-467b-bb70-568d99938477	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+57adb9ed-2443-4484-9960-8fa5fcb527b1	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ebda2c24-a29e-4206-a979-a57a9572a506	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+9e8097b1-cbfd-4eb3-85bf-4fe5a98a0dc5	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+9c5f3470-70ed-4818-92e4-5a19f1e717f9	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+a9f7a6ff-7bb5-455b-8646-e1404569a4f9	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+97b3a156-86dc-4340-b916-c41f29180278	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+e60f7cca-e7aa-4080-8d54-3eb58e8481ed	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7598ffaf-8520-4d69-b9ae-2dc8dd759f16	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+89aa167d-810c-4d65-8e4c-7f6f7791ef44	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0e8a89ae-2a79-436b-b21e-43a2547a7d27	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d0e78264-3881-44ca-8488-7fda15c82713	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+b7f6a14a-c410-4909-bb2b-2b5e1aebaf88	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1f205f0d-1e5a-450d-9f9f-6c1f0df1554d	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+acc95164-0811-423d-b403-423827a1a345	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+783fd298-3100-439f-ba8a-c5a767c3a7a5	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+48b292f3-fb3d-4bc4-80c5-bf81a611c5b0	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ad393d2b-dac1-4273-8c75-57ba08a5b4b1	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+49764889-7df4-4df0-b241-00b5db9d9903	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+89feb0b7-0e1b-4406-bdd2-97fd6b4aa3da	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+54c557d4-2b91-4e19-b7c5-21b687a55b33	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+52d44276-c3d3-48e4-96be-c969acb99aa3	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b4b1a3af-bbb1-4ff9-8e00-66f7fb4ab97e	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7330fa9e-8d96-4560-ab6c-866cc7f534f8	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+f88b4b04-5ade-4cb3-8e5b-7502f1ba72b9	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+23975604-b909-421f-acb5-7309560974d0	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b122345b-0846-4f22-b82f-39481ab91947	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+1a5c55a3-943e-49ca-8e46-2ce6e9d848d9	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+1e337d64-5f3d-47eb-9e65-13aac81c7a0e	Jen trochu	Vùbec ne	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+44ff236e-3298-4fea-8104-e5fc7c2b724d	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+11bf35c0-a551-4ece-ac23-b6ad08d5121b	Spíše hodnì	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+fefdb067-d87c-4cad-94cd-6d4da7130c0c	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+39ac0c64-25cd-4bc5-8543-74bd6a11dcd9	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+bfb2b07d-41be-4b87-a253-37a1f55ee515	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+f83a7e2d-7890-4762-84b4-8264c2be9af4	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4cf51784-6b6f-4407-9c22-ba3aa866a353	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e8dca24b-34cb-479c-92b1-8114020fb0cf	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e541169b-0d0a-43b1-9dc4-f746f655ae16	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+c719e72a-ed6e-4d17-ba12-17d57d7dc9dd	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+43eff86e-fa65-42c6-8ed3-c6b4f2742660	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+8aec5a71-7c50-44f5-bb32-b552f4cbd360	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+a3696634-914d-4f3f-adf5-cf57ead43262	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3ffd55e3-5221-4073-b107-93d5e432eba1	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ef2316f2-3806-4dba-b147-2e5acc5a5aa7	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+0f97171f-ca05-4b74-acf0-54b858f5c453	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+575248a7-fa00-4069-9b46-c4f99b56550a	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2906cf5c-06d7-48d4-bed9-c695f9109b59	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+5359adc7-a1f6-4bdf-9fff-52bf07733ecf	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+45f7f7cd-4539-42b1-b998-16367ea77caf	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+5f018254-7cb9-4af9-ba33-d21b8960ed4c	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+12d220e8-218b-4839-ae63-ad78a4b11fc1	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+437d2533-0345-4db5-b71d-3275f20db1f6	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+52d02c1a-246d-45f2-866a-b942d2800afe	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1e883ca7-2d4a-4ce0-8656-2f25064add8d	Vùbec ne	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2f14acd3-6ac6-4ebf-8a54-d732ef34fe62	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+70e2bed8-787b-4a81-8526-09626b74450e	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+eeca097b-845f-443e-9eae-c3653d8919e2	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+991e6832-fb76-4d25-916a-555bbbcdb161	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+530d1a9b-e37d-4b94-8c90-ad9db0fd1aee	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+7e7a3331-0b88-4338-a85a-74232edf757d	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2c961549-56b9-40a2-882a-2edf5b87fe1a	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+97f52b4c-51a5-421f-ba03-d986d6ca2cd3	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+235c0331-a18d-497c-b9b2-42c3a71fb509	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+1882a4d1-586e-4e68-8a92-003198dd95f8	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+c1855ec4-b8a7-42c1-af2a-4b59dc722ddc	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4aeaf56a-8ea5-4b88-8125-7c7b8dc7b9cb	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a04821fb-5418-41a9-b4db-9f6ad6795677	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+3815bdee-2a63-41a4-9818-612823d9ed9e	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7d7959ac-b66b-4ab3-9c90-93996051b2b6	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+84ddc721-98dd-4656-af94-913484886f79	Velmi	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a76a1818-15ca-472f-951d-417abf7b11ca	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+45adf7ff-16da-4dd8-b729-d87caadcce74	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0f6201b0-c7be-4f38-8692-e03c22d4c355	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+f00a7d5a-4a91-43b0-b346-5688f9fb183e	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+206fcd1b-3d41-484e-bfa4-f4860d0af17c	Do urèité míry	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+33c42a19-2468-4571-9643-e2e949dcfb03	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+bfb1afcf-3cea-48c3-b2d4-6dda3d196139	Do urèité míry	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+cf84a21f-a4f5-46cb-806f-28d3262e1212	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+942d5da4-3953-4205-b9c1-c38834a3447f	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+070618b0-d27a-4e6a-9c07-12f05045b32b	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+2a6b33fc-a523-46bb-9d72-b1596c7440e9	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+63b75d5e-6db0-4c27-aa48-20054305832f	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+ab05714e-6fa8-4dd5-a958-5eaa4cbd37c9	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+4f079d2e-dc3f-4ecf-a42b-883f2bb5bbe8	Jen trochu	Do urèité míry	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3923b56b-355c-45e5-80dc-618034565eba	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+ca89db4e-2865-4c1a-9ab8-a7605cd78afe	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+13aeea8a-4dee-4349-ba28-75c95303ea67	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+8c90568d-e530-40a0-a682-d77dd2486b86	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+df95d264-11b2-4926-ae6e-4c4de72abfb1	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+044c245e-3c2b-4500-812a-dcb158886151	Spíše hodnì	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+3d422a8f-8cae-4296-b18e-a24f0a23ceeb	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6c26c495-32a8-49ef-8fb1-9277263c4b07	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+b0abad0c-b79c-42f4-a416-1050b4c6a9cc	Jen trochu	Vùbec ne	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+232d1219-4b4d-4f8d-91cf-3fc22818cc0f	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+3b908ca9-a227-498c-b8a4-396e4be60eea	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+70a697f3-c43b-4ee4-9c78-0d1ff6249fa2	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+d1479f05-3584-4280-bd01-bc8d26494062	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+03adb52b-57a9-44bb-8712-7442527c16fa	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+24a52691-1026-4528-8d2d-91478904b106	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+c32f110d-cbb8-4d7f-84ea-6a8548d1273a	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+8c68285a-50b5-4645-aeed-cb97e9f2237a	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0bc4cd6d-12be-4376-b334-a7cf680faf96	Spíše hodnì	Do urèité míry	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+5035faf5-2608-4958-b590-ecdbe8d44ef7	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+8e849d40-e722-423a-99e9-c2366099b88f	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+9b1e68a7-778b-4110-b9b2-f8776c1104d7	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+662e6099-b95f-4e0c-b10e-012ea53163dc	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+652a5e59-9989-4716-8d1b-cf1d9a5caa90	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+8d4485e3-0f8e-4a5f-bade-21d1ddff0e75	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c1485e8a-ed14-4897-81c1-44ac1914374d	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+ea365618-2e9d-4502-91d0-ae1dfa13cac9	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+760d0ee7-fe14-4ec5-a5ee-618c71cf0f0e	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e427c99a-04c3-41c7-abdc-a58b3361c0c8	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+ee491604-de3f-4558-b6f0-7b9656c6b1f0	Jen trochu	Do urèité míry	Ne, nenapadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+75fef9cd-1d05-409d-8f87-b671a400b47c	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+208330e3-b5ae-431b-929e-d52480ff18df	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+be453d54-2c98-43a8-87c3-78ae0a3567ad	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a94e2f34-742e-488b-8cd3-3b4a243d6d9c	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+b4f6ded4-0590-4a8b-a1f0-d48c2f48979f	Jen trochu	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+390bfd37-019d-4e8c-b258-897b5cbe51df	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+714bb13d-f837-4f98-baa7-9d876864a332	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7e731de7-2c42-4c0b-a1ad-b6b93e9e0fea	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+8ea93e71-5ede-4024-9175-4a894b020e28	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2844ea0f-b71d-408a-9ad3-3edc5c3b09ea	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+4650b7de-f290-4892-a60e-7626073c3308	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1d4ea717-f171-4a80-a5f7-8f9dc0a154ea	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+8394d36d-9437-43ec-9a1d-b5ac4af58be8	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+31c6efb9-54e9-42c5-a269-4434a72186bb	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e98fee7f-9eb5-4973-bb00-db033913b1a6	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+9d63b72a-4763-4b4b-bcc9-e60167268a21	Do urèité míry	Velmi	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+3167b4f3-a695-40a4-8f74-d79d65aa6fb1	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e2904358-b63d-4a4a-ad8e-d33919b82a82	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6b30beee-edb1-4a4e-b152-c32064bc9a6a	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+2c021bfb-43da-43ec-85cc-6d9342ccddba	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+73e7a83f-96f5-4953-8705-c3da0586d488	Vùbec ne	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+1f163b36-b92a-4df7-ad3f-365b1d051fa8	Do urèité míry	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+81a9c057-2215-459d-9545-d1752e159810	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+27d21511-1c9d-4779-832d-46a4e236ac1f	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+26ff048c-0a71-4689-a932-e54fc6dabf0d	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+317837c1-fe44-44c6-a0ed-c2a7bdfb7200	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+507d7dcb-83c8-4204-8257-caa77d528adb	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+58178403-889e-4c37-9cbd-91fcfc7bd89d	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+99d6c9d3-da92-4bba-a164-629e5d745a9b	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c2257220-4033-4a14-b73e-5256b139ec91	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+250ff395-e080-4d26-8fb6-b3bc3bd2708a	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0c3e9e8d-6037-4dcb-b88c-8ddb035f3314	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+7bc7bd8e-368d-4ab9-b0bc-2c813fd8d0e5	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+87e36b4c-22ce-4bc6-94dd-259adeb57d8c	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+1d0a1eca-6706-41a3-ad41-4ca62c2a2fbe	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+bb36eca7-25cd-49fc-93b0-897ae7dc161f	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+f23cdd73-f10c-465b-ae18-b84ffec55778	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+32d69393-d921-4dca-908f-d5827013254c	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+abf1a151-a18e-493d-9915-2c2a28ea2e6a	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+783b836f-3c96-46d6-82d6-e67534729a95	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+d09c5fb1-ba1f-4470-9a69-05ffe1a68739	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+86c68f33-e319-49cd-9648-37f05cb8aa95	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+611fb718-f88a-4052-be7d-2c6ff4f78261	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c490a168-5194-4f1b-b5a5-d26c5a1dfcde	Vùbec ne	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+9c5ede66-6b4c-45b4-a777-6b9cf1c3915f	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2ce208d1-37ca-43de-bb09-c29693e20dc6	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c13c6a91-330d-4b3f-8c70-ce17db3bb495	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+bfca2c79-33e1-4e57-8cf4-6af09062c27d	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+13109639-fd6e-44ca-b8f9-306577bca108	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b23bc427-b5c7-484d-9ab2-fc25b4cf03a4	Spíše hodnì	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+377bdd84-f37c-4fd1-923c-0697171dcaa7	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d036d231-a793-41a0-85de-d9e1c6af5bc5	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4778d564-8e77-45c0-82bd-c36279d7e823	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c4332201-d7f3-447d-8abb-b95a338cf06c	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7c7cda15-9a0e-4f68-a1e3-8e8ade6dd46b	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+ee85c491-84c0-4acf-a648-4370afe60f0b	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6cdffccc-a00d-4320-ab88-64768f8265b1	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+3ab0a3c7-fc1a-494f-bb2f-cc33551d3997	Do urèité míry	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+7445b59f-0228-477d-a765-8f32ca9e9583	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+0137ac61-d62b-43fc-976a-88ceee3ef81f	Spíše hodnì	Spíše hodnì	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+f9aa455e-fd3e-4c03-9b71-c0c6654464bf	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+d8e02e6d-c932-4767-a46c-7e7f836ed6b3	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+a290aeb5-3cea-4cd4-b776-e1817422ce28	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+72a0f8df-8a7b-4180-b0d3-6cc3a4606740	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+7cc8ef05-e907-41b7-9fe6-6675f648e509	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+2786662f-f2d6-40dd-874a-e64ed55b83f2	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+6ddf97ac-5ca0-4a33-b599-bff5e220c4c6	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+94aa3fdf-13c3-46ac-a254-d69674943363	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+5e8a006b-0b53-4f45-ad0d-565f129d2152	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+ca16b2c7-150d-4782-ad24-13315339aa78	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+88274885-b444-4c1b-afae-8cc63dea2f9e	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+3b38b50c-0921-4ced-9756-db197816a5d0	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ne, nenapadlo mì to
+91295260-5131-4d8b-8f74-152ff7fe2528	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+f053d2a8-b6bc-41b8-8772-26a7625f710a	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+299fde4b-ee66-49d2-81e8-7b4364d25601	Jen trochu	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+750c9670-27f9-4f4b-bb83-4429cce8965d	Jen trochu	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4bddae6a-e45f-46b0-a628-279193afc779	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+b3713a45-8d27-4db0-9ec6-e4a1cf87daf6	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+616c38a1-a90d-4a70-a18c-6f6b32dd283f	Vùbec ne	Vùbec ne	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+c687eb13-cd83-4967-b410-5988f3edfea8	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+e24f9ce2-df0c-440e-96ce-affd02ed19a4	Do urèité míry	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+e61b625e-b8e8-4132-b717-33dcaa1c2843	Jen trochu	Jen trochu	Ano, napadlo mì to	Ano, napadlo mì to	Ano, napadlo mì to
+2b1ce0db-dae4-440d-9f8a-7ecf55704568	Vùbec ne	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+92d376f0-dabc-4089-845d-8c884aee38f7	Do urèité míry	Spíše hodnì	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+d07203ac-f8db-432d-9bda-729816f48820	Vùbec ne	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+4bce0d7d-fb8e-49e5-b413-ca751fe65c18	Spíše hodnì	Velmi	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+a37aeb8c-1f90-4de4-b0d7-df72a38a6e47	Jen trochu	Do urèité míry	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
+d62b4d96-0b89-413d-8b32-63e90c606cd2	Spíše hodnì	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ano, napadlo mì to
+20ab29f8-fc7f-49af-b647-12503e363595	Jen trochu	Jen trochu	Ano, napadlo mì to	Ne, nenapadlo mì to	Ne, nenapadlo mì to
