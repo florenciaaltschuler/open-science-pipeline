@@ -13,8 +13,8 @@ def create_directory_structure(base_path):
         "01_docs": {
             "01_participant": "Demographics",
             "02_ethics": "Ethics approval documents",
-            "03_dmn": "Project-specific design materials or domain model notes",
-            "04_prereg": "Pre-registration documents"
+            "03_dmp": "Data Management Plan",
+            "04_prereg": "Preregistration documents"
         },
         "02_data": {
             "01_raw": "Raw data",
@@ -23,7 +23,7 @@ def create_directory_structure(base_path):
         "03_scripts": {
             "01_exp": "Experimental scripts",
             "02_prep": "Data preparation scripts",
-            "03_analysis": "Analysis scripts"
+            "03_analyses": "Analyses scripts"
         },
         "04_results": {
             "01_output": "Raw output files",
