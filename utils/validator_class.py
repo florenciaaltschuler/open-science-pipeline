@@ -4,8 +4,9 @@ from datetime import datetime
 from rich import print
 from rich.table import Table
 from rich.console import Console
-from fpdf import FPDF, XPos, YPos
+#from fpdf import FPDF, XPos, YPos
 import json
+from fpdf import FPDF
 
 
 class OpenScienceValidator:
