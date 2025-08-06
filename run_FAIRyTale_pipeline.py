@@ -53,11 +53,11 @@ def create_project_interface():
         if uploaded_code_files:
             save_files(uploaded_code_files, base_path / "01_docs/02_ethics")
 
-        uploaded_code_files = upload_files("Domain Model (03_dmn)")
+        uploaded_code_files = upload_files("Data Management Plan (03_dmp)")
         if uploaded_code_files:
-            save_files(uploaded_code_files, base_path / "01_docs/03_dmn")
+            save_files(uploaded_code_files, base_path / "01_docs/03_dmp")
 
-        uploaded_code_files = upload_files("Pre-registration (04_prereg)")
+        uploaded_code_files = upload_files("Preregistration (04_prereg)")
         if uploaded_code_files:
             save_files(uploaded_code_files, base_path / "01_docs/04_prereg")
 
@@ -79,9 +79,9 @@ def create_project_interface():
         if uploaded_code_files:
             save_files(uploaded_code_files, base_path / "03_scripts/02_prep")
         
-        uploaded_code_files = upload_files("Analysis scripts (03_analysis)")
+        uploaded_code_files = upload_files("Analyses scripts (03_analyses)")
         if uploaded_code_files:
-            save_files(uploaded_code_files, base_path / "03_scripts/03_analysis")
+            save_files(uploaded_code_files, base_path / "03_scripts/03_analyses")
 
         st.header("Results (04_results)")
         uploaded_result_files = upload_files("Output (01_output)")
