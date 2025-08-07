@@ -83,14 +83,17 @@ Step-by-step instructions on how to install or set up the project locally.
 
 Clone the repository:
 
-```bash
+
+```
 git clone https://github.com/NeuroHackademy2025/open-science-pipeline.git
+```
 
 
 Navigate to the project directory
 
-```bash
+```
 cd your-repository
+```
 
 Create and activate a virtual environment
 
