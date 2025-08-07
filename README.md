@@ -10,8 +10,11 @@ This project provides a program to automatically create a local repository struc
 
 Creators:
 Florencia Altschuler
+
 Annika Andersson
+
 Jaime Rios
+
 Iliana Sandoval
 
 Responsible organization:
@@ -70,8 +73,6 @@ FAIRyTale project/
  **05_meta/                          Metadata and supplementary information for reproducibility and FAIR principles, such as dataset descriptors, codebooks, or provenance logs**
 
 
-
-     
 Software needed to read the data files.
 - Python 3.7+ 
 
