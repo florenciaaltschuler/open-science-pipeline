@@ -30,7 +30,7 @@ def create_directory_structure(base_path):
             "02_figures": "Figures and visualizations",
             "03_tables": "Tables of results"
         },
-        "05_meta": "Metadata and supplementary information"
+        "05_meta": ""  
     }
     
     # Create directories based on the structure
@@ -49,11 +49,15 @@ def create_directory_structure(base_path):
             sub_path.mkdir(parents=True, exist_ok=True)
             st.write(f"Created folder: {sub_path}")
 
-# Function to handle file uploads
-def upload_files(category_name):
-    """Upload files for the given category."""
+
+# Function to handle file uploads with optional type restriction
+def upload_files(category_name, allowed_types=None):
+    """Upload files for the given category, with an optional file type restriction."""
     st.write(f"Upload {category_name} files here:")
-    uploaded_files = st.file_uploader(f"Choose {category_name} files", accept_multiple_files=True)
+    
+    # Restricting file types only if allowed_types is provided
+    uploaded_files = st.file_uploader(f"Choose {category_name} files", type=allowed_types, accept_multiple_files=True)
+    
     return uploaded_files
 
 # Function to save files into a specific folder
@@ -69,12 +73,25 @@ def save_files(uploaded_files, target_folder):
 
 # Function to organize and compress the files into a zip folder
 def create_zip_folder(base_path, project_name):
-    """Create a zip file of the project folder."""
+    """Create a zip file of the project folder and include a specific README.md"""
     zip_filename = f"{project_name}.zip"
     zip_filepath = base_path / zip_filename
 
+    # Path to the README.md you want to include
+    readme_path = Path("./Example_Repos/Good_Repo/README.md")
+
     # Create a Zip file with the entire project folder (excluding the zip file itself)
     with zipfile.ZipFile(zip_filepath, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        # Add the README.md to the ZIP if it exists
+        if readme_path.exists():
+            # Adding README.md to the ZIP with a relative path
+            # Using a more explicit method to ensure it gets added correctly
+            zipf.write(readme_path, "README.md")  # Specify the name inside the zip
+            st.write(f"Added {readme_path} to the ZIP file.")
+        else:
+            st.error(f"README.md file not found at {readme_path}")
+        
+        # Add all files and folders from the project directory to the ZIP
         for root, dirs, files in os.walk(base_path):
             for file in files:
                 # Exclude the zip file from being added to the zip

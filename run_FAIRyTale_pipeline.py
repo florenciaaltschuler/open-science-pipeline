@@ -45,7 +45,8 @@ def create_project_interface():
         
         # Upload files for each subfolder
         st.header("Documentation (01_docs)")
-        uploaded_code_files = upload_files("Participant (01_participant)")
+        
+        uploaded_code_files = upload_files("Participant (01_participant)", allowed_types=["csv", "tsv", "xlsx", "txt"])
         if uploaded_code_files:
             save_files(uploaded_code_files, base_path / "01_docs/01_participant")
         
@@ -88,7 +89,7 @@ def create_project_interface():
         if uploaded_result_files:
             save_files(uploaded_result_files, base_path / "04_results/01_output")
 
-        uploaded_result_files = upload_files("Figures (02_figures)")
+        uploaded_result_files = upload_files("Figures (02_figures)", allowed_types=["jpg", "png", "svg", "pdf"])
         if uploaded_result_files:
             save_files(uploaded_result_files, base_path / "04_results/02_figures")
 
