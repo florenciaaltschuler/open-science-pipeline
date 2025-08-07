@@ -32,25 +32,46 @@ Project Structure:
 The repository will include the following folders:
 
 FAIRyTale project/
-│  README.md
-│──01_docs/                    ← Documentation related to the project. Protocols, consent, ethics, DMP
-│      ├── 01_participant/     ← demographics
-│      ├── 02_ethics/          ← Ethics approval documents
-│      ├── 03_dmp/             ← Data management plan
-│      └── 04_prereg/          ← Pre-registration documents
-│──02_data/                    ← Data collected and processed for the study. *never edit in place*
-│      ├── 01_raw/             ← Unaltered, original raw data
-│      └── 02_preproc/         ← Preprocessed and/or cleaned data
-│──03_scripts/                  ← Code used across various stages of the research process.
-│      ├── 01_exp/             ← Experimental scripts for data collection
-│      ├── 02_prep/            ← Data preparation scripts
-│      └── 03_analysis/        ← Statistical or computational analysis scripts
-│──04_results/                 ← Outputs generated from analysis (stats tables, final figs).
-│      ├── 01_output/          ← Raw output files from analysis scripts, such as logs or model outputs.
-│      ├── 02_figures/         ← Visualizations such as plots, charts, or brain maps
-│      └── 03_tables/          ← Tabular data results
-└──05_meta/                    ← Metadata and supplementary information for reproducibility and FAIR principles, such as dataset descriptors, codebooks, or provenance logs.
 
+**README.md**
+
+**01_docs/                    Documentation related to the project. Protocols, consent, ethics, DMP**
+
+01_participant/               Demographics
+
+02_ethics/                        Ethics approval documents
+
+03_dmp/                           Data management plan
+
+04_prereg/                       Pre-registration documents
+
+**02_data/                    Data collected and processed for the study. *never edit in place***
+
+01_raw/                           Unaltered, original raw data
+
+02_preproc/                     Preprocessed and/or cleaned data
+
+**03_scripts/                 Code used across various stages of the research process**
+
+01_exp/                             Experimental scripts for data collection
+
+02_prep/                           Data preparation scripts
+
+03_analysis/                     Statistical or computational analysis scripts
+
+**04_results/                 Outputs generated from analysis (stats tables, final figs)**
+
+ 01_output/                      Raw output files from analysis scripts, such as logs or model outputs.
+
+ 02_figures/                      Visualizations such as plots, charts, or brain maps
+
+ 03_tables/                        Tabular data results
+
+ **05_meta/                          Metadata and supplementary information for reproducibility and FAIR principles, such as dataset descriptors, codebooks, or provenance logs**
+
+
+
+     
 Software needed to read the data files.
 - Python 3.7+ 
 
